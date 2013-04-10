@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Red
+=======
+A Red Octocat
+>>>>>>> 64f805b581baf93290bf505ea51656bbc6e732dc

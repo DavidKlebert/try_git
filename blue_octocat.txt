@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Blue
-=======
-A Blue Octocat
->>>>>>> 64f805b581baf93290bf505ea51656bbc6e732dc
